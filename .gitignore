@@ -1,0 +1,32 @@
+/includes
+/misc
+/profiles
+/scripts
+.htaccess
+/sites/sites.php
+Supprimerait .htaccess
+Supprimerait .idea/
+Supprimerait CHANGELOG.txt
+Supprimerait COPYRIGHT.txt
+Supprimerait INSTALL.mysql.txt
+Supprimerait INSTALL.pgsql.txt
+Supprimerait INSTALL.sqlite.txt
+Supprimerait INSTALL.txt
+Supprimerait LICENSE.txt
+Supprimerait MAINTAINERS.txt
+Supprimerait README.txt
+Supprimerait UPGRADE.txt
+Supprimerait authorize.php
+Supprimerait cron.php
+Supprimerait index.php
+Supprimerait install.php
+Supprimerait misc/
+Supprimerait modules/
+Supprimerait profiles/
+Supprimerait robots.txt
+Supprimerait scripts/
+Supprimerait sites/
+Supprimerait themes/
+Supprimerait update.php
+Supprimerait web.config
+Supprimerait xmlrpc.php

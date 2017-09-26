@@ -1,0 +1,1 @@
+window.CKEDITOR_BASEPATH = '/private/danphoto/sites/all/libraries/ckeditor/';
